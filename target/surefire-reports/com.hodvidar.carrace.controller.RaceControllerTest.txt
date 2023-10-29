@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.hodvidar.carrace.controller.RaceControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.549 s - in com.hodvidar.carrace.controller.RaceControllerTest

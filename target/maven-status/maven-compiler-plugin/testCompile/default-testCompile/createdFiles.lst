@@ -1,0 +1,4 @@
+com\hodvidar\carrace\service\RaceServiceTest.class
+com\hodvidar\carrace\RaceCarApplicationTests.class
+com\hodvidar\carrace\config\TestConfig.class
+com\hodvidar\carrace\controller\RaceControllerTest.class
